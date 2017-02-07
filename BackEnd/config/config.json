@@ -1,0 +1,7 @@
+{
+	"port": 3000,
+	"loglevel": "debug",
+	"connectionString": "mongodb://localhost/SmartTime",
+	"securityKey": "34gv34u1yg3v4171h@2g3v!h123h4XSD12xDSD!@",
+	"encodeAlgorithm": "HS512" 
+}
